@@ -1,2 +1,1 @@
-# hello-world
-abcd
+printf("Hello world");
